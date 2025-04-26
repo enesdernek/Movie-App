@@ -1,0 +1,20 @@
+.video {
+    cursor: pointer;
+}
+
+.comment-list {
+    border: 1px solid white;
+    color: white !important
+}
+
+.favorite-icon:hover {
+    cursor: pointer;
+}
+
+.delete-icon {
+    color: red
+}
+
+.delete-icon:hover {
+    cursor: pointer;
+}
