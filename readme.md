@@ -105,7 +105,7 @@ npm start
 
  ![Register Page](screenshots/register-page.png)
  ![Login Page](screenshots/login-page.png) 
- ![Main Page](screenshots/main-page.png)
+ ![Home Page](screenshots/home-page.png)
  ![Comments](screenshots/comments.png)
 
  > ⚠️ The posters and images used in this project are for non-commercial, educational and demonstrational purposes only. All copyrights belong to their respective owners.
